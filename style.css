@@ -138,6 +138,7 @@ h1 {
 
   .right {
     font-size: 1.6rem;
+    padding-left: 10px;
     width: 19rem;
   }
 }
