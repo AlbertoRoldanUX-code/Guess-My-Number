@@ -117,3 +117,26 @@ h1 {
 .label-score {
   margin-bottom: 2rem;
 }
+
+/* Media queries */
+@media only screen and (max-width: 600px) {
+  h1 {
+    font-size: 2.1rem;
+  }
+
+  .again {
+    position: relative;
+  }
+  .between {
+    position: relative;
+    text-align: center;
+  }
+
+  .guess {
+    width: 15rem;
+  }
+
+  .right {
+    font-size: 1.6rem;
+  }
+}
